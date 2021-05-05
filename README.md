@@ -27,6 +27,9 @@ Just go to the application directory and execute this in the terminal:
 
 ## Commands
 F -> Move forward on current heading
+
 B -> Move backwards on current heading 
+
 L -> Rotate left by 90 degrees
+
 R -> Rotate right by 90 degrees
